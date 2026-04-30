@@ -1,0 +1,15 @@
+# Data files
+data/**/*.csv
+data/*.csv
+
+# Model weights
+models/training_data.npz
+
+# Results
+results/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.DS_Store

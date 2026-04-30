@@ -1,6 +1,8 @@
 # NLMS Pairs Trading Strategy
 ### Adaptive Hedge-Ratio Estimation with Variable Step-Size NLMS Filters and Machine Learning μ Prediction
 
+**Author:** Ignacio Blasi Sanchiz
+
 ---
 
 ## Abstract

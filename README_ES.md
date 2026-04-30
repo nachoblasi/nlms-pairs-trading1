@@ -1,6 +1,8 @@
 # Estrategia de Pairs Trading con Filtros NLMS
 ### Estimación Adaptativa del Hedge Ratio con Filtros VS-NLMS de Paso Variable y Predicción de μ con Machine Learning
 
+**Autor:** Ignacio Blasi Sanchiz
+
 ---
 
 ## Resumen
